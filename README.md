@@ -2,7 +2,7 @@
 > Selenium, BeautifulSoup, Requests, MongoDB, Konlpy, etc...
 
 ### 1. 데이터 수집
-> selenium, BeautifulSoup, Requests 모듈을 사용하여 다음 영화평을 수집
+> Selenium, BeautifulSoup, Requests 모듈을 사용하여 다음 영화평을 수집
 
 - 수집내용
 1. 영화평  

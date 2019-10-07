@@ -12,7 +12,7 @@
 
 ### 2. 데이터 저장
 > MongoDB에 수집된 영화평 저장
-- MongoDB Connentic  
+- MongoDB Connection  
 DB_IP : 127.0.0.1/localhost  
 DB_Post : 27017  
 DB_ID : admin  
